@@ -1,12 +1,12 @@
 # Arastirma Odevleri
-- String yapýsý new ve " " yapýsý
-- MD5 nedir?
-- SHA nedir?
+- String olusturma yontemleri ve aralarindaki farklar nelerdir?
 - Synchronizaction nedir?
+- SHA nedir?
 - Absolute path nedir?
 - Relative path nedir?
-- URL URI arasýndaki farklar nelerdir?
 - Video, resimlerde neden byte [] dizisi kullanýlýyor?
+- URL URI arasýndaki farklar nelerdir?
+- MD5 nedir?
 <br>
 # Kodlama Odevleri
 - Kullanýcýdan alýnan sayý kadar dizi elemaný olsun rastgele 1-10 arasýndaki bu sayýlarý bir diziye atayalým.
