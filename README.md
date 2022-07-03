@@ -1,2 +1,25 @@
-# 6.hafta.sali.carsamba.odevi
-https://github.com/ulkulekci/Turkcell_JavaSe_odevler
+# Arastirma Odevleri
+- String yapýsý new ve " " yapýsý
+- MD5 nedir?
+- SHA nedir?
+- Synchronizaction nedir?
+- Absolute path nedir?
+- Relative path nedir?
+- URL URI arasýndaki farklar nelerdir?
+- Video, resimlerde neden byte [] dizisi kullanýlýyor?
+<br>
+# Kodlama Odevleri
+- Kullanýcýdan alýnan sayý kadar dizi elemaný olsun rastgele 1-10 arasýndaki bu sayýlarý bir diziye atayalým.
+- Sonra bu diziyi baþka bir diziye clone edelim.
+- Clonelanmýþ bu dizi bu sayýlarý küçükten büyüðe doðru sýralayýn (Arrays.sort())
+- En küçük sayýyý ve en büyük sayýyý bulalým? (diziyle yapalým)
+- Bu sayýlarýn toplamý kaçtýr?
+- Bu sayýlarýn ortalamasý kaçtýr?
+- Bu dizideki elemanlardan kaç tanesi tek sayý ve tek sayýlarýn toplamý (tek sayý dizisi)
+- Bu dizideki elemanlardan kaç tanesi çift sayý ve çift sayýlarýn toplamý (çift sayý dizisi)
+- Dizideki en büyük eleman ile 25'i karþýlatýralým dizideki eleman 25'den büyük mü?
+- Dizideki elemanlarda 5 sayýsý var mý? (java.util.Arrays.binarySearch())
+- Dizide tekrar eden sayýlarý bir dizide göstrerelim?
+- Dizide tekrar eden sayýlar yerine 1 kere tekrar sayýsýný göstersin (tekrarsýz dizi elemanlarý)
+
+
